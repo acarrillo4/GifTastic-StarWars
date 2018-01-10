@@ -1,0 +1,33 @@
+    body {
+        font-family: 'Oxygen', sans-serif;
+        background-color: black;
+    }
+
+    p {
+        font-size: 20px;
+        color: white;
+    }
+
+    .gifImageDiv {
+        float: left;
+        margin: 10px;
+    }
+
+    label {
+        font-size: 20px;
+    }
+
+    #logo {
+        max-height: 220px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    label {
+        color: white;
+    }
+
+    form {
+        display: block;
+        margin: 0 auto;
+    }
